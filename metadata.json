@@ -1,0 +1,6 @@
+{
+  "name": "MPI Dakwah - Perilaku Terpuji & Penyakit Sosial",
+  "description": "Multimedia Pembelajaran Interaktif (MPI) untuk Siswa SMK: Menerapkan Perilaku Terpuji dengan Menghindari Penyakit Sosial (Perundungan, Perkelahian, dan Perjudian)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
